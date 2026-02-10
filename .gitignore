@@ -1,0 +1,18 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build
+bin/
+out/
+*.class
+target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
