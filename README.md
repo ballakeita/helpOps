@@ -34,9 +34,9 @@ git add .
 git commit -m "Description du changement"
 ```
 
-### 4️⃣ Avant de pusher
+### 4️⃣ Avant de pusher (se mettre d'accord avec l'ensemble de l'equipe avant de mettre votre code sur le main)
 ```bash
-git pull origin main  # Se mettre à jour(Tester avec l'ensemble de l'equipe avant de mettre votre code sur le main)
+git pull origin main  # Se mettre à jour
 ```
 
 ### 5️⃣ Push & Pull Request
