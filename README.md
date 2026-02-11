@@ -4,42 +4,42 @@
 
 ---
 
-## 📋 Description
+##  Description
 
 HELP'OPS est une plateforme distribuée de gestion des incidents permettant :
-- ✅ Authentification des utilisateurs (jeton)
-- ✅ Déclaration d'incidents (catégorie, titre, description)
-- ✅ Consultation des incidents déclarés
+-  Authentification des utilisateurs (jeton)
+-  Déclaration d'incidents (catégorie, titre, description)
+-  Consultation des incidents déclarés
 
 ---
 
-## 🛠️ Setup & Workflow Git
+##  Setup & Workflow Git
 
-### 1️⃣ Cloner le repo
+###  Cloner le repo
 ```bash
 git clone https://github.com/ballakeita/md-to-confluence-test.git
 cd helpOps
 ```
 
-### 2️⃣ Créer votre branch (NE JAMAIS travailler sur `main`)
+### Créer votre branch (NE JAMAIS travailler sur `main`)
 ```bash
 git checkout -b votre-nom
 git pull origin main
 ```
 
-### 3️⃣ Développer & Tester
+### Développer & Tester
 ```bash
 # Faire vos modifs
 git add .
 git commit -m "Description du changement"
 ```
 
-### 4️⃣ Avant de pusher (se mettre d'accord avec l'ensemble de l'equipe avant de mettre votre code sur le main)
+### Avant de pusher (se mettre d'accord avec l'ensemble de l'equipe avant de mettre votre code sur le main)
 ```bash
 git pull origin main  # Se mettre à jour
 ```
 
-### 5️⃣ Push & Pull Request
+###  Push & Pull Request
 ```bash
 git push origin votre-nom
 ```
@@ -47,7 +47,7 @@ Ensuite, créez une **Pull Request** sur GitHub pour review en équipe avant mer
 
 ---
 
-## 📁 Structure
+## Structure
 
 ```
 helpOps/
